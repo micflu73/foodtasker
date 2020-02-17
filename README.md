@@ -4,9 +4,9 @@ Build an system for Food Delivery like UberEats with Python + Swift + Android
 (course code).
 
 ## Start development Server
-$ cd courses/foodtasker/
-$ vagrant up
-$ vagrant ssh
+$ cd courses/foodtasker/  
+$ vagrant up  
+$ vagrant ssh  
 
 ## Activate virtual environment
 vagrant@ubuntu-xenial:~$ source ~/env/bin/activate
